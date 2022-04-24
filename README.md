@@ -1,2 +1,2 @@
 # IntroductionToMachineLearning
-The content of this repository is about machine learning.
+This repository contains documents and codes related to machine learning.
